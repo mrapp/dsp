@@ -60,7 +60,7 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 * `-g` displays long excluding owner's name
 * `-d` displays only directories
 * `-m` displays files in comma seperated list
-* `-q` displys non-printing charectors as "?""
+* `-q` displays non-printing charectors as "?"
 
 ---
 
@@ -68,7 +68,7 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > It reads the standard in and applys it to a command as argument. For examaple: `ls *.md | xargs grep "Unix"` is equivelant to `grep "Unix" *.md`.
+> > It reads the standard in and applys it to a command as argument. For examaple, `ls *.md | xargs grep "Unix"` is equivelant to `grep "Unix" *.md`.
 
  
 
