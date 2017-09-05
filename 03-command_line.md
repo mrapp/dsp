@@ -68,7 +68,7 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > It reads the standard in and applys it to a command as argument. For examaple: `ls *.md | xargs grep "Unix"` is equivelant to `grep "Unix" *.md`.
 
  
 
