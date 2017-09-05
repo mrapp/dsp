@@ -42,7 +42,13 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > `ls`: list directory   
+`ls -a`: list directory including hidden files  
+`ls -l`: list directory long, includes lots of additional info  
+`ls -lh`: list directory long with abbreviated file sizes  
+`ls -lah`: lists directory long with abbreviated file sizes including hidden files  
+`ls -t`: list directory sorted by date modified  
+`ls -Glp`  : lists directory long with blue directories and a "/" at the end of directories
 
 ---
 
@@ -50,7 +56,11 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > * `-R` displays subdirectories as well
+* `-g` displays long excluding owner's name
+* `-d` displays only directories
+* `-m` displays files in comma seperated list
+* `-q` displys non-printing charectors as "?""
 
 ---
 
