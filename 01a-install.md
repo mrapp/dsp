@@ -56,7 +56,7 @@ How can you check the version of Python installed if you happen to be on an unfa
 
 >> Simply running python returns the version number.
 ```console
-python
+$ python
 ```
 
  
