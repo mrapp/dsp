@@ -4,6 +4,7 @@
 ```python
 import random
 import thinkstats2
+import thinkplot
 
 rand = []
 for i in range(1000):
