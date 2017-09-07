@@ -93,7 +93,8 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> A frequentist takes the position that probilities are only appropriate for events that can be reapeted, at least in principle. They take probability to be frequency with which an event is likely to occur. Bayesians are happy to place a probabilty over anything where there is uncertainty. This gives rise to the "Bayesian Prior" which is maligned by frequentists as unscientific.  
+>>>The difference between the two approaches can be seen in the case of hypothesis testing. With a Frequentist approach, one can reject a hypothesis that parmater is less than zero by noting that the probabilty of observaing the data given the paramter is less than 0.05. Under a Baysian approach, one can say more directly that the chance the paramter is less than zero is less than 0.05. This is becuase the Bayesian is inclined to put a prior distribution over the parameter and allow the data to adjust the probability distribution through Bayesian updating.
 
 ---
 
