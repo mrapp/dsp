@@ -26,4 +26,7 @@ thinkplot.Config(xlabel='Number of Children', ylabel='Pmf')
 
 print (actual_pmf.Mean(), biased_pmf.Mean())
 ```
->> The "mean of the actual pmf" (really just the sampe average) is 1.02. While that of the "biased pmf" (an estimate of the hypothecial sample average) is: 2.40.
+>> The "mean of the actual pmf" (really just the sampe average) is 1.02. While that of the "biased pmf" (an estimate of the hypothecial sample average) is: 2.40. Below are the graphs of the "pmfs".
+
+![Actual pmf](../img/actual_pmf.png?raw=true )
+![Biased pmf](../img/biased_pmf.png?raw=true )
