@@ -88,11 +88,11 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 
 >> The probability his brother was identical is 29.4%. 
 
->> We are looking for the chance his twin was identical given he had a twin. Or P(A|B) where A is the event “has an identical twin” and B is “has a twin”. Bayes’ rule tells us:
+>> We are looking for the chance his twin was identical given he had a twin. Or P(A|B) where A is the event “had an identical twin” and B is “had a twin”. Bayes’ Rule gives:
 
 >> P(A|B) = P(B|A) P(A) / P(B)
 
->> Note that P(B|A) in words is “the probability of he has a twin given you he has an identical twin”. This is plainly 1 since A implies B. This leaves the ratio of the unconditional chance he had an identical twin by the total chance he had a twin or (1/300)/(1/125+1/300).
+>> Note that P(B|A) in words is “the probability he had a twin given he had an identical twin”. This is plainly one as A implies B. That leaves the ratio of the unconditional chance he had an identical twin by the total chance he had a twin or (1/300)/(1/125+1/300).
 
 
 ---
